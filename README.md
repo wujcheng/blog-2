@@ -2,7 +2,7 @@
 
 ### 前端技术
 
- - [此处输入链接的描述][1]
+ - [AngularJS之Isolated Scope][1]
  - [AngularJS之Service vs Provider vs Factory][2]
  - [AngularJS之依赖注入][3]
  - [初探flux][4]
