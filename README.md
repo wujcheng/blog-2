@@ -14,6 +14,9 @@
  - [扩大可点击域和delete icon的搏斗][10]
  - [Vue.js之数据绑定原理][11]
 
+### 翻译书籍
+
+ - [Understanding ECMAScript 6 中文翻译][12]
 
   [1]: https://github.com/superpig/blog/issues/3
   [2]: https://github.com/superpig/blog/issues/2
@@ -26,3 +29,4 @@
   [9]: https://github.com/superpig/blog/blob/master/201602/01.md
   [10]: https://github.com/superpig/blog/blob/master/201601/01.md
   [11]: https://github.com/superpig/blog/blob/master/201601/02.md
+  [12]: https://github.com/superpig/understandinges6
